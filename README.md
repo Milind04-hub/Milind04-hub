@@ -14,7 +14,8 @@
 ## `$ whoami`
 
 > BTech CSE (AI/DS) student focused on building real-world projects and improving problem-solving.  
-> Currently exploring AI, data science, and web development while working toward earning through tech.
+> Currently exploring AI, data science, and web development.
+> Working towards becoming a developer who builds useful and practical solutions.
 
 ---
 
