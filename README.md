@@ -60,32 +60,40 @@ milind = {
     "goal":       "Earn before Year 2 ends — through freelancing or products",
     "mindset":    "Ship fast. Learn faster.",
 }
-| Area                     | Status         |
-| ------------------------ | -------------- |
-| 🐍 Python (CS50P)        | ✅ Completed    |
-| 🤖 AI / ML Basics        | 🔄 In Progress |
-| 📊 Data Science          | 🔄 In Progress |
-| 🌐 Web Development       | 🔄 In Progress |
+```
+
+| Area | Status |
+|---|---|
+| 🐍 Python (CS50P) | ✅ Completed |
+| 🤖 AI / ML Basics | 🔄 In Progress |
+| 📊 Data Science | 🔄 In Progress |
+| 🌐 Web Development | 🔄 In Progress |
 | 💡 DSA / Problem Solving | 🔄 In Progress |
 
-🚀 Projects
+---
 
-Currently working on building my first set of real-world projects.
-Updates coming soon.
+## 🚀 Projects
 
-📬 Let's Connect
+> Currently working on building my first set of real-world projects.  
+> Updates coming soon.
+
+---
+
+## 📬 Let's Connect
+
 <div align="center">
 
-
-
-
-
-
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/milind-sharma-227221247)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/milind004)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:milind04bhs@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.dev)
 
 </div>
+
+---
+
 <div align="center">
 
 <i>"Most people won't start. The ones who do rarely finish. Be the one who ships."</i>
 
-</div> ```
+</div>
