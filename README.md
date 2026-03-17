@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=220&section=header&text=Milind%20Sharma&desc=CSE%20Student%20%7C%20AI%2FDS%20Specialization&descSize=18&fontSize=40&fontColor=ffffff" />
-<img src="https://komarev.com/ghpvc/?username=Milind04-hub&style=flat-square&color=6E40C9&label=Profile+Views" alt="Profile Views" />
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=250&section=header&text=Milind%20Sharma&desc=CSE%20Student%20%7C%20AI%2FDS%20Specialization&descSize=20&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+</p>
 </div>
 
 ---
