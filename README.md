@@ -1,11 +1,9 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:1e293b&height=180&section=header&text=Milind%20Sharma&fontSize=40&fontColor=ffffff" />
-</p>
+<h1 align="center">Milind Sharma</h1>
 
-<h3 align="center">
+<p align="center">
   BTech CSE Student • AI/DS Specialization <br>
   Building real-world projects & growing as a developer
-</h3>
+</p>
 
 <p align="center">
   <i>Focused on becoming someone who builds, not just learns.</i>
@@ -62,3 +60,32 @@ milind = {
     "goal":       "Earn before Year 2 ends — through freelancing or products",
     "mindset":    "Ship fast. Learn faster.",
 }
+| Area                     | Status         |
+| ------------------------ | -------------- |
+| 🐍 Python (CS50P)        | ✅ Completed    |
+| 🤖 AI / ML Basics        | 🔄 In Progress |
+| 📊 Data Science          | 🔄 In Progress |
+| 🌐 Web Development       | 🔄 In Progress |
+| 💡 DSA / Problem Solving | 🔄 In Progress |
+
+🚀 Projects
+
+Currently working on building my first set of real-world projects.
+Updates coming soon.
+
+📬 Let's Connect
+<div align="center">
+
+
+
+
+
+
+
+
+</div>
+<div align="center">
+
+<i>"Most people won't start. The ones who do rarely finish. Be the one who ships."</i>
+
+</div> ```
