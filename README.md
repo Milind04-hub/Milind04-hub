@@ -58,7 +58,7 @@
 milind = {
     "learning":   ["AI/ML fundamentals", "Data Science", "Web Development"],
     "building":   ["Real-world projects", "Problem-solving skills"],
-    "goal":       "Earn before Year 2 ends — through freelancing or products",
+    "goal":       "Build something significant before Year 2 ends",
     "mindset":    "Ship fast. Learn faster.",
 }
 ```
