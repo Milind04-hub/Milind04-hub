@@ -12,12 +12,6 @@
   <i>Focused on becoming someone who ships real work, not just someone who watches tutorials.</i>
 </p>
 
-<p align="center">
-  <a href="https://linkedin.com/in/milind-sharma-227221247">LinkedIn</a> •
-  <a href="mailto:milind04bhs@gmail.com">Email</a> •
-  <a href="https://instagram.com/milind004">Instagram</a>
-</p>
-
 ---
 
 ## About Me
