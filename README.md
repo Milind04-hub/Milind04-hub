@@ -35,25 +35,25 @@ I am especially interested in tools, data-driven applications, and projects that
 
 ---
 
-## Current Focus
+## 🎯 Current Focus
 
 ```python
 milind = {
-    "learning": ["AI/ML fundamentals", "data science", "web development"],
-    "building": ["practical tools", "portfolio-grade projects"],
-    "improving": ["problem solving", "consistency", "execution"],
-    "goal": "Build strong real-world projects early in college",
-    "mindset": "Build. Finish. Improve. Repeat."
+    "🎓 learning":  ["AI/ML fundamentals", "data science", "web development"],
+    "🛠️ building":  ["practical tools", "portfolio-grade projects"],
+    "📈 improving": ["problem solving", "consistency", "execution"],
+    "🏁 goal":      "Build strong real-world projects early in college",
+    "💭 mindset":   "Build. Finish. Improve. Repeat."
 }
 ```
 
 | Area | Status |
 |---|---|
-| Python | Strong foundation |
-| AI / ML Basics | In progress |
-| Data Science | In progress |
-| Web Development | In progress |
-| DSA / Problem Solving | In progress |
+| 🐍 Python | ✅ Strong foundation |
+| 🤖 AI / ML Basics | 🔄 In progress |
+| 📊 Data Science | 🔄 In progress |
+| 🌐 Web Development | 🔄 In progress |
+| 🧩 DSA / Problem Solving | 🔄 In progress |
 
 ---
 
