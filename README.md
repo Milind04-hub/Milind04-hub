@@ -106,7 +106,7 @@ What you can expect from this profile over time:
   <a href="https://instagram.com/milind004">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="mailto:milind04bhs@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&to=milind04bhs@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
