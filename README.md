@@ -41,10 +41,13 @@
       <img src="https://img.shields.io/badge/Python-161b22?style=flat-square&logo=python&logoColor=3776AB"/>
     </td>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/Milind04-hub/FamCare">💊 FamCare</a></h4>
-      Family medication tracker with role-based access, adherence calendars and missed-dose reminders.
+      <h4><a href="https://github.com/Milind04-hub/finex-analytics">📊 Finex Analytics</a></h4>
+      Local-first personal-finance dashboard that parses multi-bank PDF statements into spending analytics. Your data never leaves your machine.
       <br/><br/>
-      <img src="https://img.shields.io/badge/JavaScript-161b22?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
+      <img src="https://img.shields.io/badge/Flask-161b22?style=flat-square&logo=flask&logoColor=white"/>
+      <img src="https://img.shields.io/badge/HTMX-161b22?style=flat-square&logo=htmx&logoColor=3366CC"/>
+      <img src="https://img.shields.io/badge/Pandas-161b22?style=flat-square&logo=pandas&logoColor=white"/>
+      <img src="https://img.shields.io/badge/pytest-161b22?style=flat-square&logo=pytest&logoColor=0A9EDC"/>
     </td>
   </tr>
 </table>
