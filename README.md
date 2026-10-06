@@ -72,7 +72,7 @@
 
 - Building quant tooling: a backtesting engine and a limit order book simulator
 - Entering hackathons and shipping fast prototypes
-- Interested in local AI, simulation, and real-time graphics
+- Interested in local AI, simulation, and interactive 3D & shader visuals
 
 ---
 
